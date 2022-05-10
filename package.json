@@ -1,6 +1,19 @@
 {
-  "name": "vivaworkers",
+  "name": "@fearthebeard95/vivaworkers-specification",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "description": "This is an NPM package for the vivaworkers backend OpenAPI specifications",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FearTheBeard95/super-duper-fiesta-specification.git"
+  },
+  "author": "carlos sibalatani <sibalatanics@outlook.com>",
+  "bugs": {
+    "url": "https://github.com/FearTheBeard95/super-duper-fiesta-specification/issues"
+  },
+  "homepage": "https://github.com/FearTheBeard95/super-duper-fiesta-specification#readme"
 }
